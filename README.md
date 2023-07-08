@@ -1,1 +1,1 @@
-# Practice2
+# Mastering Git and GitHub
